@@ -12,5 +12,5 @@ public class WinningScore {
 			System.out.println("B");
 		else
 			System.out.println("T");
-	}
+	} 
 }
